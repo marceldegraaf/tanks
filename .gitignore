@@ -1,0 +1,6 @@
+Tanks/Temp
+Tanks/obj
+Tanks/library
+Tanks/*.csproj
+Tanks/*.unityproj
+Tanks/*.sln
